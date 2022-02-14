@@ -1,2 +1,2 @@
 # bookmark
-[test](./docs/1.md)
+[test](./1.md)
